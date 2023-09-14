@@ -15,7 +15,7 @@ const Row = ({ title, id, fetchUrl }) => {
         return () => {};
     }, [fetchMovieData]);
 
-    return <div>Row</div>;
+    return <div>Roddw</div>;
 };
 
 export default Row;
